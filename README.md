@@ -11,7 +11,7 @@ Admin dashboard for managing elections and users
 Responsive design for accessibility on various devices.
 
 
-_**Goals**:-
+**Goals**:-
 _
 To provide a reliable and trustworthy online voting solution
 To increase voter participation and engagement
